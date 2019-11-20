@@ -15,7 +15,7 @@ public class HelloController {
 
     @RequestMapping("info")
     public String info(){
-        return "Hello SpringBoot Info 项目经理123";
+        return "Hello SpringBoot Info 项目经理123456";
     }
     //开发人员写了一句话
 }
