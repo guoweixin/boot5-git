@@ -23,6 +23,6 @@ public class HelloController {
     //介文娟
     @RequestMapping("like")
     public String like(){
-        return "I like java";
+        return "I like java !";
     }
 }
