@@ -26,6 +26,7 @@ public class HelloController {
     //张刚
     //贺兵兵
     //肖韩
+    //徐傅
     //窦刘柱
     //赵孟洋
     //下面的别删了
