@@ -19,6 +19,40 @@ public class HelloController {
 
     }
     //开发人员写了一句话
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     @RequestMapping("test")
     public String test(){
         return "这是一次小测试开奖号库.........";
