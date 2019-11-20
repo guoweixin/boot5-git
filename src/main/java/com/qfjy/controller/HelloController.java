@@ -34,4 +34,6 @@ public class HelloController {
     //米莱迪
     //吴维
     //章志勇
+    //孙晨
+    //许亮
 }
