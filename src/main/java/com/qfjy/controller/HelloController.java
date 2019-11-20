@@ -21,8 +21,9 @@ public class HelloController {
     //蔡敏捷，啦啦啦
     //黎敏川.......
     //介文娟
-    @RequestMapping("like")
-    public String like(){
-        return "I like java !";
-    }
+    //张帅帅
+    //张刚
+    //肖韩
+    //窦刘柱
+    //郑克思
 }
