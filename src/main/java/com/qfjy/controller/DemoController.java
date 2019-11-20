@@ -8,17 +8,15 @@ import org.springframework.web.bind.annotation.RestController;
  */
 
 @RestController
-public class UserController {
+public class DemoController {
 
-    @RequestMapping("user/login")
-    public String login(){
-        return "congratulations";
+    @RequestMapping("demo")
+    public String demo(){
+        return "demo";
     }
 
 
 
 
-    //黄庆超  前来修改
-    //王凯
-    //潘舒华
+
 }
