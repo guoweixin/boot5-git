@@ -18,10 +18,7 @@ public class HelloController {
         return "Hello SpringBoot Info 项目经理123456";
     }
     //开发人员写了一句话
-    //蔡敏捷，啦啦啦
-    //黎敏川.......
-    //介文娟
-    //张帅帅
-    //张刚
-    //肖韩
+    //下面的别删了
+    //徐傅
+
 }
